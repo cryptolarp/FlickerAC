@@ -14,7 +14,7 @@ A cutting‑edge, lightweight auto‑clicker for Windows.
 
 ## Download
 
-Get the latest `.exe` from the [Releases page](../../releases).
+Get the latest `.exe` from the [Releases page](https://github.com/cryptolarp/FlickerAC/releases/tag/release).
 
 ## Usage
 
